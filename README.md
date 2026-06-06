@@ -142,21 +142,9 @@ iot-security-simulation/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Flask framework for the backend
 - React.js for the frontend
 - Modern CSS techniques for beautiful UI
 - IoT security concepts and best practices
-
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub.
-
----
-
-**Made with ❤️ for IoT Security Education** 
